@@ -34,3 +34,4 @@
 | `G5` | `DP` | [BOJ12865.java](./DP/BOJ12865.java) |
 | `S4` | `DP` | [BOJ2491.java](./DP/BOJ2491.java) |
 | `S2` | `DP` | [BOJ11051.java](./DP/BOJ11051.java) |
+| `S2` | `Sliding Window` | [BOJ12891.java](./SlidingWindow/BOJ12891.java) |
