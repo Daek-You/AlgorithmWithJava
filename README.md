@@ -37,3 +37,4 @@
 | `S2` | `Sliding Window` | [BOJ12891.java](./SlidingWindow/BOJ12891.java) |
 | `G4` | `Shortest Path` | [BOJ1504.java](./ShortestPath/BOJ1504.java) |
 | `G5` | `Shortest Path` | [BOJ21278.java](./ShortestPath/BOJ21278.java) |
+| `G4` | `Shortest Path` | [BOJ1261.java](./ShortestPath/BOJ1261.java) |
