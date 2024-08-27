@@ -40,6 +40,7 @@
 | `G4` | `Shortest Path` | [BOJ1261.java](./ShortestPath/BOJ1261.java) |
 | `S2` | `Shortest Path` | [BOJ18352.java](./ShortestPath/BOJ18352.java) |
 | `S2` | `Shortest Path` | [BOJ1058.java](./ShortestPath/BOJ1058.java) |
+| `G5` | `Shortest Path` | [BOJ14284.java](./ShortestPath/BOJ14284.java) |
 | `G4` | `Minimum Spanning Tree` | [BOJ14950.java](./MinimumSpanningTree/BOJ14950.java) |
 | `G4` | `Minimum Spanning Tree` | [BOJ13905.java](./MinimumSpanningTree/BOJ13905.java) |
 | `G4` | `Minimum Spanning Tree` | [BOJ21924.java](./MinimumSpanningTree/BOJ21924.java) |
