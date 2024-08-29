@@ -46,3 +46,5 @@
 | `G4` | `Minimum Spanning Tree` | [BOJ21924.java](./MinimumSpanningTree/BOJ21924.java) |
 | `G3` | `Minimum Spanning Tree` | [BOJ14621.java](./MinimumSpanningTree/BOJ14621.java) |
 | `G3` | `Minimum Spanning Tree` | [BOJ1414.java](./MinimumSpanningTree/BOJ1414.java) |
+| `G3` | `Minimum Spanning Tree` | [BOJ10423.java](./MinimumSpanningTree/BOJ10423.java) |
+| `G1` | `Minimum Spanning Tree` | [BOJ17472.java](./MinimumSpanningTree/BOJ17472.java) |
