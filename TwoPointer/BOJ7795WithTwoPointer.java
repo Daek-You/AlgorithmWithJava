@@ -33,7 +33,7 @@ public class BOJ7795WithTwoPointer {
                     continue;
                 }
                 
-								// A 배열의 현재 요소가 B 배열을 먹을 수 있다면, A 배열의 나머지 뒷 요소들도 다 먹을 수 있다.
+				// A 배열의 현재 요소가 B 배열을 먹을 수 있다면, A 배열의 나머지 뒷 요소들도 다 먹을 수 있다.
                 answer += (N - aPtr);
                 bPtr++;
             }
