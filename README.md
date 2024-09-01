@@ -58,3 +58,4 @@
 | `G5` | [[BOJ-1041] 주사위](https://www.acmicpc.net/problem/1041) | [BOJ1041.java](./Greedy/BOJ1041.java) |
 | `G4` | [[BOJ-13975] 파일 합치기 3](https://www.acmicpc.net/problem/13975) | [BOJ13975.java](./Greedy/BOJ13975.java) |
 | `G5` | [[BOJ-19598] 최소 회의실 개수](https://www.acmicpc.net/problem/19598) | [BOJ19598.java](./Greedy/BOJ19598.java) |
+| `G4` | [[BOJ-1083] 소트](https://www.acmicpc.net/problem/1083) | [BOJ1083.java](./Greedy/BOJ1083.java) |
