@@ -57,3 +57,4 @@
 | `G1` | [[BOJ-17472] 다리 만들기 2](https://www.acmicpc.net/problem/17472) | [BOJ17472.java](./MinimumSpanningTree/BOJ17472.java) |
 | `G5` | [[BOJ-1041] 주사위](https://www.acmicpc.net/problem/1041) | [BOJ1041.java](./Greedy/BOJ1041.java) |
 | `G4` | [[BOJ-13975] 파일 합치기 3](https://www.acmicpc.net/problem/13975) | [BOJ13975.java](./Greedy/BOJ13975.java) |
+| `G5` | [[BOJ-19598] 최소 회의실 개수](https://www.acmicpc.net/problem/19598) | [BOJ19598.java](./Greedy/BOJ19598.java) |
