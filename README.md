@@ -61,3 +61,4 @@
 | `G4` | [[BOJ-1083] 소트](https://www.acmicpc.net/problem/1083) | [BOJ1083.java](./Greedy/BOJ1083.java) |
 | `G2` | [[BOJ-1826] 연료 채우기](https://www.acmicpc.net/problem/1826) | [BOJ1826.java](./Greedy/BOJ1826.java) |
 | `B1` | [[BOJ-1333] 부재중 전화](https://www.acmicpc.net/problem/1333) | [BOJ1333.java](./Greedy/BOJ1333.java) |
+| `G3` | [[BOJ-20187] 종이접기](https://www.acmicpc.net/problem/20187) | [BOJ20187.java](./DivideAndConquer/BOJ20187.java) |
