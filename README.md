@@ -63,3 +63,5 @@
 | `S1` | [[BOJ-1080] 행렬](https://www.acmicpc.net/problem/1080) | [BOJ1080.java](./Greedy/BOJ1080.java) |
 | `S1` | [[BOJ-15903] 카드 합체 놀이](https://www.acmicpc.net/problem/15903) | [BOJ15903.java](./Greedy/BOJ15903.java) |
 | `S1` | [[BOJ-11497] 통나무 건너뛰기](https://www.acmicpc.net/problem/11497) | [BOJ11497.java](./Greedy/BOJ11497.java) |
+| `B1` | [[BOJ-1333] 부재중 전화](https://www.acmicpc.net/problem/1333) | [BOJ1333.java](./Greedy/BOJ1333.java) |
+| `G3` | [[BOJ-20187] 종이접기](https://www.acmicpc.net/problem/20187) | [BOJ20187.java](./DivideAndConquer/BOJ20187.java) |
