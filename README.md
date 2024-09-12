@@ -60,3 +60,6 @@
 | `G5` | [[BOJ-19598] 최소 회의실 개수](https://www.acmicpc.net/problem/19598) | [BOJ19598.java](./Greedy/BOJ19598.java) |
 | `G4` | [[BOJ-1083] 소트](https://www.acmicpc.net/problem/1083) | [BOJ1083.java](./Greedy/BOJ1083.java) |
 | `G2` | [[BOJ-1826] 연료 채우기](https://www.acmicpc.net/problem/1826) | [BOJ1826.java](./Greedy/BOJ1826.java) |
+| `S1` | [[BOJ-1080] 행렬](https://www.acmicpc.net/problem/1080) | [BOJ1080.java](./Greedy/BOJ1080.java) |
+| `S1` | [[BOJ-15903] 카드 합체 놀이](https://www.acmicpc.net/problem/15903) | [BOJ15903.java](./Greedy/BOJ15903.java) |
+| `S1` | [[BOJ-11497] 통나무 건너뛰기](https://www.acmicpc.net/problem/11497) | [BOJ11497.java](./Greedy/BOJ11497.java) |
