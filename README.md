@@ -67,3 +67,4 @@
 | `G3` | [[BOJ-20187] 종이접기](https://www.acmicpc.net/problem/20187) | [BOJ20187.java](./DivideAndConquer/BOJ20187.java) |
 | `G5` | [[BOJ-14567] 선수과목(Prerequisite)](https://www.acmicpc.net/problem/14567) | [BOJ14567.java](./TopologicalSorting/BOJ14567.java) |
 | `G3` | [[BOJ-1005] ACM Craft](https://www.acmicpc.net/problem/1005) | [BOJ1005.java](./TopologicalSorting/BOJ1005.java) |
+| `G2` | [[BOJ-2637] 장난감 조립](https://www.acmicpc.net/problem/2637) | [BOJ2637.java](./TopologicalSorting/BOJ2637.java) |
