@@ -69,3 +69,4 @@
 | `G3` | [[BOJ-1005] ACM Craft](https://www.acmicpc.net/problem/1005) | [BOJ1005.java](./TopologicalSorting/BOJ1005.java) |
 | `G2` | [[BOJ-2637] 장난감 조립](https://www.acmicpc.net/problem/2637) | [BOJ2637.java](./TopologicalSorting/BOJ2637.java) |
 | `G2` | [[BOJ-1766] 문제집](https://www.acmicpc.net/problem/1766) | [BOJ1766.java](./TopologicalSorting/BOJ1766.java) |
+| `P5` | [[BOJ-1948] 임계경로](https://www.acmicpc.net/problem/1948) | [BOJ1948.java](./TopologicalSorting/BOJ1948.java) |
