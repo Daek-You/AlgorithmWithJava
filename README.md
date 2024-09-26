@@ -70,3 +70,5 @@
 | `G2` | [[BOJ-2637] 장난감 조립](https://www.acmicpc.net/problem/2637) | [BOJ2637.java](./TopologicalSorting/BOJ2637.java) |
 | `G2` | [[BOJ-1766] 문제집](https://www.acmicpc.net/problem/1766) | [BOJ1766.java](./TopologicalSorting/BOJ1766.java) |
 | `P5` | [[BOJ-1948] 임계경로](https://www.acmicpc.net/problem/1948) | [BOJ1948.java](./TopologicalSorting/BOJ1948.java) |
+| `G4` | [[BOJ-2056] 작업](https://www.acmicpc.net/problem/2056) | [BOJ2056.java](./TopologicalSorting/BOJ2056.java) |
+| `G2` | [[BOJ-21276] 계보 복원가 호석](https://www.acmicpc.net/problem/21276) | [BOJ21276.java](./TopologicalSorting/BOJ21276.java) |
