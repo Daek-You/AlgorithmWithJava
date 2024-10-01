@@ -72,3 +72,6 @@
 | `P5` | [[BOJ-1948] 임계경로](https://www.acmicpc.net/problem/1948) | [BOJ1948.java](./TopologicalSorting/BOJ1948.java) |
 | `G4` | [[BOJ-2056] 작업](https://www.acmicpc.net/problem/2056) | [BOJ2056.java](./TopologicalSorting/BOJ2056.java) |
 | `G2` | [[BOJ-21276] 계보 복원가 호석](https://www.acmicpc.net/problem/21276) | [BOJ21276.java](./TopologicalSorting/BOJ21276.java) |
+| `G3` | [[BOJ-9344] 도로](https://www.acmicpc.net/problem/9344) | [BOJ9344.java](./MinimumSpanningTree/BOJ9344.java) |
+| `G3` | [[BOJ-1719] 택배](https://www.acmicpc.net/problem/1719) | [BOJ1719.java](./ShortestPath/BOJ1719.java) |
+| `G1` | [[BOJ-1700] 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | [BOJ1700.java](./Greedy/BOJ1700.java) |
