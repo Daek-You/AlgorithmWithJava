@@ -75,3 +75,4 @@
 | `G3` | [[BOJ-9344] 도로](https://www.acmicpc.net/problem/9344) | [BOJ9344.java](./MinimumSpanningTree/BOJ9344.java) |
 | `G3` | [[BOJ-1719] 택배](https://www.acmicpc.net/problem/1719) | [BOJ1719.java](./ShortestPath/BOJ1719.java) |
 | `G1` | [[BOJ-1700] 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | [BOJ1700.java](./Greedy/BOJ1700.java) |
+| `G5` | [[BOJ-11909] 배열 탈출](https://www.acmicpc.net/problem/11909) | [BOJ11909.java](./DynamicProgramming/BOJ11909.java) |
