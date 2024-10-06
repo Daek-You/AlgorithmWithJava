@@ -80,3 +80,4 @@
 | `D4` | [[SWEA-1226] 미로1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14vXUqAGMCFAYD) | [SWEA1226.java](./ShortestPath/SWEA1226.java) |
 | `G4` | [[BOJ-3055] 탈출](https://www.acmicpc.net/problem/3055) | [BOJ3055.java](./ExhaustiveSearch/BOJ3055.java) |
 | `G3` | [[BOJ-2206] 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [BOJ2206.java](./ExhaustiveSearch/BOJ2206.java) |
+| `D3` | [[SWEA-22683] 나무 베기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZIyCYJ6p30DFAQP) | [SWEA22683.java](./ExhaustiveSearch/SWEA22683.java) |
