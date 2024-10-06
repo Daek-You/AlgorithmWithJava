@@ -76,3 +76,5 @@
 | `G3` | [[BOJ-1719] 택배](https://www.acmicpc.net/problem/1719) | [BOJ1719.java](./ShortestPath/BOJ1719.java) |
 | `G1` | [[BOJ-1700] 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | [BOJ1700.java](./Greedy/BOJ1700.java) |
 | `G5` | [[BOJ-11909] 배열 탈출](https://www.acmicpc.net/problem/11909) | [BOJ11909.java](./DynamicProgramming/BOJ11909.java) |
+| `G1` | [[BOJ-1194] 달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) | [BOJ1194.java](./ExhaustiveSearch/BOJ1194.java) |
+| `D4` | [[SWEA-1226] 미로1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14vXUqAGMCFAYD) | [SWEA1226.java](./ShortestPath/SWEA1226.java) |
