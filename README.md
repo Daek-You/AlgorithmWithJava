@@ -79,3 +79,4 @@
 | `G1` | [[BOJ-1194] 달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) | [BOJ1194.java](./ExhaustiveSearch/BOJ1194.java) |
 | `D4` | [[SWEA-1226] 미로1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14vXUqAGMCFAYD) | [SWEA1226.java](./ShortestPath/SWEA1226.java) |
 | `G4` | [[BOJ-3055] 탈출](https://www.acmicpc.net/problem/3055) | [BOJ3055.java](./ExhaustiveSearch/BOJ3055.java) |
+| `G3` | [[BOJ-2206] 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [BOJ2206.java](./ExhaustiveSearch/BOJ2206.java) |
