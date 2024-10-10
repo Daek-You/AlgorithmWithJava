@@ -83,3 +83,4 @@
 | `D3` | [[SWEA-22683] 나무 베기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZIyCYJ6p30DFAQP) | [SWEA22683.java](./ExhaustiveSearch/SWEA22683.java) |
 | `모의 SW 역량 테스트` | [[SWEA-1953] 탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq) | [SWEA1953.java](./ExhaustiveSearch/SWEA1953.java) |
 | `D2` | [[SWEA-22654] 차윤이의 RC카](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZIx55YKpg0DFAQP) | [SWEA22654.java](./ExhaustiveSearch/SWEA22654.java) |
+| `G5` | [[BOJ-5904] Moo 게임](https://www.acmicpc.net/problem/5904) | [BOJ5904.java](./DivideAndConquer/BOJ5904.java) |
