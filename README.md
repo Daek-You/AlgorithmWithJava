@@ -84,3 +84,4 @@
 | `모의 SW 역량 테스트` | [[SWEA-1953] 탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq) | [SWEA1953.java](./ExhaustiveSearch/SWEA1953.java) |
 | `D2` | [[SWEA-22654] 차윤이의 RC카](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZIx55YKpg0DFAQP) | [SWEA22654.java](./ExhaustiveSearch/SWEA22654.java) |
 | `G5` | [[BOJ-5904] Moo 게임](https://www.acmicpc.net/problem/5904) | [BOJ5904.java](./DivideAndConquer/BOJ5904.java) |
+| `S1` | [[BOJ-1802] 종이 접기](https://www.acmicpc.net/problem/1802) | [BOJ1802.java](./DivideAndConquer/BOJ1802.java) |
