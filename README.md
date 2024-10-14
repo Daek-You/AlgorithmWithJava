@@ -86,3 +86,4 @@
 | `G5` | [[BOJ-5904] Moo 게임](https://www.acmicpc.net/problem/5904) | [BOJ5904.java](./DivideAndConquer/BOJ5904.java) |
 | `S1` | [[BOJ-1802] 종이 접기](https://www.acmicpc.net/problem/1802) | [BOJ1802.java](./DivideAndConquer/BOJ1802.java) |
 | `S2` | [[BOJ-18222] 투에-모스 문자열](https://www.acmicpc.net/problem/18222) | [BOJ18222.java](./DivideAndConquer/BOJ18222.java) |
+| `S1` | [[BOJ-1992] 쿼드트리](https://www.acmicpc.net/problem/1992) | [BOJ1992.java](./DivideAndConquer/BOJ1992.java) |
