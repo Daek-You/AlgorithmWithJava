@@ -88,3 +88,5 @@
 | `S2` | [[BOJ-18222] 투에-모스 문자열](https://www.acmicpc.net/problem/18222) | [BOJ18222.java](./DivideAndConquer/BOJ18222.java) |
 | `S1` | [[BOJ-1992] 쿼드트리](https://www.acmicpc.net/problem/1992) | [BOJ1992.java](./DivideAndConquer/BOJ1992.java) |
 | `G4` | [[BOJ-17297] Messi Gimossi](https://www.acmicpc.net/problem/17297) | [BOJ17297.java](./DivideAndConquer/BOJ17297.java) |
+| `S3` | [[BOJ-24460] 특별상이라도 받고 싶어](https://www.acmicpc.net/problem/24460) | [BOJ24460.java](./DivideAndConquer/BOJ24460.java) |
+| `G4` | [[BOJ-1891] 사분면](https://www.acmicpc.net/problem/1891) | [BOJ1891.java](./DivideAndConquer/BOJ1891.java) |
