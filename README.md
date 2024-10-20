@@ -90,3 +90,4 @@
 | `G4` | [[BOJ-17297] Messi Gimossi](https://www.acmicpc.net/problem/17297) | [BOJ17297.java](./DivideAndConquer/BOJ17297.java) |
 | `S3` | [[BOJ-24460] 특별상이라도 받고 싶어](https://www.acmicpc.net/problem/24460) | [BOJ24460.java](./DivideAndConquer/BOJ24460.java) |
 | `G4` | [[BOJ-1891] 사분면](https://www.acmicpc.net/problem/1891) | [BOJ1891.java](./DivideAndConquer/BOJ1891.java) |
+| `G5` | [[BOJ-16974] 레벨 햄버거](https://www.acmicpc.net/problem/16974) | [BOJ16974.java](./DivideAndConquer/BOJ16974.java) |
