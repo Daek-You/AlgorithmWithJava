@@ -92,3 +92,4 @@
 | `G4` | [[BOJ-1891] 사분면](https://www.acmicpc.net/problem/1891) | [BOJ1891.java](./DivideAndConquer/BOJ1891.java) |
 | `G5` | [[BOJ-16974] 레벨 햄버거](https://www.acmicpc.net/problem/16974) | [BOJ16974.java](./DivideAndConquer/BOJ16974.java) |
 | `G5` | [[BOJ-21870] 시철이가 사랑한 GCD](https://www.acmicpc.net/problem/21870) | [BOJ21870.java](./DivideAndConquer/BOJ21870.java) |
+| `G4` | [[BOJ-1915] 가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | [BOJ1915.java](./DynamicProgramming/BOJ1915.java) |
