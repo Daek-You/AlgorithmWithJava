@@ -94,3 +94,4 @@
 | `G5` | [[BOJ-21870] 시철이가 사랑한 GCD](https://www.acmicpc.net/problem/21870) | [BOJ21870.java](./DivideAndConquer/BOJ21870.java) |
 | `G4` | [[BOJ-1915] 가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | [BOJ1915.java](./DynamicProgramming/BOJ1915.java) |
 | `S2` | [[BOJ-2512] 예산](https://www.acmicpc.net/problem/2512) | [BOJ2512.java](./BinarySearch/BOJ2512.java) |
+| `G4` | [[BOJ-10159] 저울](https://www.acmicpc.net/problem/10159) | [BOJ10159.java](./ExhaustiveSearch/BOJ10159.java) |
