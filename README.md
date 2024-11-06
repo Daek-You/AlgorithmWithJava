@@ -95,3 +95,4 @@
 | `G4` | [[BOJ-1915] 가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | [BOJ1915.java](./DynamicProgramming/BOJ1915.java) |
 | `S2` | [[BOJ-2512] 예산](https://www.acmicpc.net/problem/2512) | [BOJ2512.java](./BinarySearch/BOJ2512.java) |
 | `G4` | [[BOJ-10159] 저울](https://www.acmicpc.net/problem/10159) | [BOJ10159.java](./ExhaustiveSearch/BOJ10159.java) |
+| `Lv2` | [[Programmers] 기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061) | [PG_기둥과보설치](./Implementation/Programmers_기둥과보설치.java) |
