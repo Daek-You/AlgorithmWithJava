@@ -93,3 +93,4 @@
 | `G5` | [[BOJ-16974] 레벨 햄버거](https://www.acmicpc.net/problem/16974) | [BOJ16974.java](./DivideAndConquer/BOJ16974.java) |
 | `G5` | [[BOJ-21870] 시철이가 사랑한 GCD](https://www.acmicpc.net/problem/21870) | [BOJ21870.java](./DivideAndConquer/BOJ21870.java) |
 | `G4` | [[BOJ-1915] 가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | [BOJ1915.java](./DynamicProgramming/BOJ1915.java) |
+| `G4` | [[BOJ-14497] 주난의 난](https://www.acmicpc.net/problem/14497) | [BOJ14497.java](./ExhaustiveSearch/BOJ14497.java) |
