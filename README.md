@@ -98,3 +98,4 @@
 | `G4` | [[BOJ-10159] 저울](https://www.acmicpc.net/problem/10159) | [BOJ10159.java](./ExhaustiveSearch/BOJ10159.java) |
 | `Lv2` | [[Programmers] 기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061) | [PG_기둥과보설치](./Implementation/Programmers_기둥과보설치.java) |
 | `G5` | [[BOJ-2166] 다각형의 면적](https://www.acmicpc.net/problem/2166) | [BOJ2166.java](./Geometry/BOJ2166.java) |
+| `G5` | [[BOJ-2170] 선 긋기](https://www.acmicpc.net/problem/2170) | [BOJ2170.java](./Sweeping/BOJ2170.java) |
