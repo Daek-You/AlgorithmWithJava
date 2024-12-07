@@ -99,3 +99,4 @@
 | `Lv2` | [[Programmers] 기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061) | [PG_기둥과보설치](./Implementation/Programmers_기둥과보설치.java) |
 | `G5` | [[BOJ-2166] 다각형의 면적](https://www.acmicpc.net/problem/2166) | [BOJ2166.java](./Geometry/BOJ2166.java) |
 | `G5` | [[BOJ-2170] 선 긋기](https://www.acmicpc.net/problem/2170) | [BOJ2170.java](./Sweeping/BOJ2170.java) |
+| `G5` | [[BOJ-22251] 빌런 호석](https://www.acmicpc.net/problem/22251) | [BOJ22251.java](./ExhaustiveSearch/BOJ22251.java) |
