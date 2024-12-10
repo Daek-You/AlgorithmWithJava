@@ -101,3 +101,4 @@
 | `G5` | [[BOJ-2170] 선 긋기](https://www.acmicpc.net/problem/2170) | [BOJ2170.java](./Sweeping/BOJ2170.java) |
 | `G5` | [[BOJ-22251] 빌런 호석](https://www.acmicpc.net/problem/22251) | [BOJ22251.java](./ExhaustiveSearch/BOJ22251.java) |
 | `G4` | [[BOJ-22856] 트리 순회](https://www.acmicpc.net/problem/22856) | [BOJ22856.java](./Tree/BOJ22856.java) |
+| `G2` | [[BOJ-2632] 피자판매](https://www.acmicpc.net/problem/2632) | [BOJ2632.java](./CumulativeSum/BOJ2632.java) |
