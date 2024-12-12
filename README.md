@@ -103,3 +103,4 @@
 | `G4` | [[BOJ-22856] 트리 순회](https://www.acmicpc.net/problem/22856) | [BOJ22856.java](./Tree/BOJ22856.java) |
 | `G2` | [[BOJ-2632] 피자판매](https://www.acmicpc.net/problem/2632) | [BOJ2632.java](./CumulativeSum/BOJ2632.java) |
 | `G2` | [[BOJ-7453] 합이 0인 네 정수](https://www.acmicpc.net/problem/7453) | [BOJ7453.java](./BinarySearch/BOJ7453.java) |
+| `G4` | [[BOJ-1963] 소수 경로](https://www.acmicpc.net/problem/1963) | [BOJ1963.java](./MatheMathics/BOJ1963.java) |
